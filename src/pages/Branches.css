@@ -1,0 +1,26 @@
+.Branches-main-container{
+    display: flex;
+    width:100%;
+    height:100%;
+    flex-direction: column;
+}
+.top-nav-container{
+    display: flex;
+    width:100%;
+    height:50px;
+    justify-content: space-between;
+    align-items: center;
+}
+.heading h2{
+    margin:20px;
+}
+.top-nav-items{
+    display: flex;
+    width: 10%;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 20px;
+}
+.top-nav-items a{
+    text-decoration: none;
+}

@@ -1,0 +1,46 @@
+.Sidebar{
+    width:300px;
+    height:100%;
+    background-color: #ff735a;
+}
+.Logo h3{
+    margin: 10px;
+    padding:5px;
+    text-align: center; 
+}
+.Logo a{
+    text-decoration: none;
+   color: black;
+}
+.SidebarList{
+    width: 100%;
+    height: auto;
+    margin:0; 
+    padding:0; 
+}
+.SidebarList .row{
+width:85%;
+height: 32px;
+margin:5px;
+padding:10px;
+border-radius: 5px;
+list-style-type: none;
+display: flex;
+align-items: center;
+
+}
+.SidebarList #active{
+    background-color: #E3E3E3;
+}
+.SidebarList .row:hover{
+    cursor: pointer;
+    background-color: #E3E3E3;
+}
+.row #icon{
+    flex:20%;
+    display: grid;
+    place-items: center;
+}
+.row #title{
+    flex: 80%;
+}

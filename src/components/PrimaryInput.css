@@ -1,0 +1,10 @@
+.Primary-input input{
+    width:250px;
+    height: 35px;
+    margin:10px;
+    padding-left:10px;
+    border-radius:5px;
+    border:1px solid rgb(190, 189, 189);
+    outline:none;
+
+}

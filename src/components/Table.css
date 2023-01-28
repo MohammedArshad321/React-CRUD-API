@@ -1,0 +1,25 @@
+.table-main-container{
+    width:100%;
+    height: 450px;
+
+}
+.table{
+    width:95%;
+    height:auto;
+    margin:25px;
+    font-size: 1em;
+    border: 1px solid lightgray;
+}
+th{
+    padding:8px;
+    border-bottom: 1px solid lightgray;
+}
+td{
+    padding:8px;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+}
+td svg{
+   margin:5px;
+}
+
