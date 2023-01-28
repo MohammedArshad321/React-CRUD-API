@@ -19,33 +19,5 @@ const TableData= [
         users:"50",
 
     },
-    // {
-    //     branch_name:"",
-    //     admin:"",
-    //     area:"",
-    //     department:"",
-    //     employees:"",
-    //     users:"",
-    //     actions:{
-    //         view:"",
-    //         edit:"",
-    //         more:"",
-    //     }
-
-    // },
-    // {
-    //     branch_name:"",
-    //     admin:"",
-    //     area:"",
-    //     department:"",
-    //     employees:"",
-    //     users:"",
-    //     actions:{
-    //         view:"",
-    //         edit:"",
-    //         more:"",
-    //     }
-
-    // },
 ]
 export default TableData;
